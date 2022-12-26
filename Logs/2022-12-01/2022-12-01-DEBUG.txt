@@ -1,0 +1,8 @@
+[20:44:43] main-DEBUG 开始连接数据库 
+[20:44:43] main-DEBUG 数据库连接成功 
+[20:51:07] main-DEBUG 开始连接数据库 
+[20:51:07] main-DEBUG 数据库连接成功 
+[20:51:41] main-DEBUG 开始连接数据库 
+[20:51:41] main-DEBUG 数据库连接成功 
+[21:13:54] main-DEBUG 开始连接数据库 
+[21:14:07] main-DEBUG 数据库连接成功 
